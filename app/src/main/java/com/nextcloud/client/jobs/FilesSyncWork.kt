@@ -102,14 +102,12 @@ class FilesSyncWork(
 
     @Suppress("MagicNumber")
     override suspend fun doWork(): Result {
-        if (backgroundJobManager.bothFilesSyncJobsRunning()){
-            Log_OC.d(TAG,"Kill Sync Worker since another instance of the worker seems to be running already!")
+        if (backgroundJobManager.bothFilesSyncJobsRunning()) {
+            Log_OC.d(TAG, "Kill Sync Worker since another instance of the worker seems to be running already!")
             return Result.success()
         }
         backgroundJobManager.logStartOfWorker(BackgroundJobManagerImpl.formatClassTag(this::class))
         setForeground(createForegroundInfo(0))
-
-
 
         val overridePowerSaving = inputData.getBoolean(OVERRIDE_POWER_SAVING, false)
         // If we are in power save mode, better to postpone upload
