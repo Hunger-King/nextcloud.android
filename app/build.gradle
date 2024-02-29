@@ -246,6 +246,12 @@ android {
         // Adds exported schema location as test app assets.
         androidTest.assets.srcDirs += files("$projectDir/schemas".toString())
     }
+
+    // This enables long timeouts required on slow environments
+    adbOptions {
+        timeOutInMs 5 * 60 * 1000  // 5 minutes
+        installOptions "-t"
+    }
 }
 
 dependencies {
