@@ -151,7 +151,7 @@
     <string name="confirm_removal">移除本機加密</string>
     <string name="confirmation_remove_file_alert">您真的想要刪除 %1$s 嗎？</string>
     <string name="confirmation_remove_files_alert">您真的想要刪除所選的項目嗎？</string>
-    <string name="confirmation_remove_folder_alert">你真的想要刪除 %1$s 及其內容？</string>
+    <string name="confirmation_remove_folder_alert">您真的想要刪除 %1$s 及其內容？</string>
     <string name="confirmation_remove_folders_alert">您真的想要刪除所選項目和裡面的內容嗎？</string>
     <string name="confirmation_remove_local">僅本機</string>
     <string name="conflict_dialog_error">建立衝突對話方塊時發生錯誤！</string>
@@ -267,7 +267,7 @@
     <string name="end_to_end_encryption_enter_password">請輸入密碼來解密私鑰。</string>
     <string name="end_to_end_encryption_folder_not_empty">資料夾不為空。</string>
     <string name="end_to_end_encryption_generating_keys">正在產生新的金鑰……</string>
-    <string name="end_to_end_encryption_keywords_description">透過組合 12 個字來產生安全的密碼，讓你可以安全的瀏覽與加密檔案。請確保這組密碼只有你知道，並寫記在紙上妥善保管。</string>
+    <string name="end_to_end_encryption_keywords_description">透過組合 12 個字來產生安全的密碼，讓您可以安全的瀏覽與加密檔案。請確保這組密碼只有您知道，並寫記在紙上妥善保管。</string>
     <string name="end_to_end_encryption_not_enabled">伺服器上的端到端加密已停用。</string>
     <string name="end_to_end_encryption_passphrase_title">為您 12 個字的加密密碼加上註解</string>
     <string name="end_to_end_encryption_password">密碼……</string>
@@ -816,8 +816,8 @@
 \n
 \n請造訪 https://nextcloud.com 以取得更多資訊</string>
     <string name="store_full_dev_desc">可自架且始終讓您掌控一切的生產力平台。\n這是官方的開發版本，每天都會提供未經測試的任何新功能的範例，可能造成不穩定或資料遺失。此應用程式適合願意測試且回報遇到的問題的使用者。不要將其用於您的生產力工作！\n\nF-Droid 同時提供了官方的開發版本與一般版本，可同時安裝。</string>
-    <string name="store_short_desc">讓你能完全掌控、可自建且具生產力的平台</string>
-    <string name="store_short_dev_desc">讓你能完全掌控、可自建且具生產力的平台（開發者預覽版）</string>
+    <string name="store_short_desc">讓您能完全掌控、可自建且具生產力的平台</string>
+    <string name="store_short_dev_desc">讓您能完全掌控、可自建且具生產力的平台（開發者預覽版）</string>
     <string name="stream">串流……</string>
     <string name="stream_not_possible_headline">無法進行內部串流</string>
     <string name="stream_not_possible_message">請改為下載媒體或使用外部應用程式。</string>
@@ -983,7 +983,7 @@
     <string name="webview_version_check_alert_dialog_message">請更新 Android System WebView 應用程式以進行登入</string>
     <string name="webview_version_check_alert_dialog_positive_button_title">更新</string>
     <string name="webview_version_check_alert_dialog_title">更新 Android System WebView</string>
-    <string name="what_s_new_image">有什麼新圖片？</string>
+    <string name="what_s_new_image">有什麼新圖片</string>
     <string name="whats_new_skip">略過</string>
     <string name="whats_new_title">%1$s 有什麼新功能</string>
     <string name="whats_your_status">您目前的狀態是什麼呢？</string>
