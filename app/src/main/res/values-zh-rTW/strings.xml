@@ -29,7 +29,7 @@
     <string name="activities_no_results_headline">目前沒有任何活動</string>
     <string name="activities_no_results_message">尚未有任何新增、變更或分享事件。</string>
     <string name="activity_chooser_send_file_title">寄出</string>
-    <string name="activity_chooser_title">傳送連結至……</string>
+    <string name="activity_chooser_title">傳送連結至…</string>
     <string name="activity_icon">活動</string>
     <string name="add_another_public_share_link">新增其他連結</string>
     <string name="add_new_public_share">新增公開分享連結</string>
@@ -61,7 +61,7 @@
     <string name="auth_ssl_unverified_server_title">無法驗證 SSL 伺服器的身分</string>
     <string name="auth_testing_connection">測試連線</string>
     <string name="auth_timeout_title">伺服器回應逾時</string>
-    <string name="auth_trying_to_login">正在嘗試登入……</string>
+    <string name="auth_trying_to_login">正在嘗試登入…</string>
     <string name="auth_unauthorized">錯誤的使用者或密碼</string>
     <string name="auth_unknown_error_exception_title">未知錯誤：%1$s</string>
     <string name="auth_unknown_error_http_title">發生未知的 HTTP 錯誤！</string>
@@ -92,9 +92,9 @@
     <string name="changelog_dev_version">開發版本變動紀錄</string>
     <string name="check_back_later_or_reload">稍後再回來檢視或重新載入。</string>
     <string name="checkbox">核取方塊</string>
-    <string name="choose_local_folder">選擇本機資料夾……</string>
+    <string name="choose_local_folder">選擇本機資料夾…</string>
     <string name="choose_location">選擇位置</string>
-    <string name="choose_remote_folder">選擇遠端資料夾……</string>
+    <string name="choose_remote_folder">選擇遠端資料夾…</string>
     <string name="choose_template_helper_text">請選擇範本並輸入檔案名稱。</string>
     <string name="choose_which_file">選擇要保留哪個檔案！</string>
     <string name="choose_widget">選擇小工具</string>
@@ -115,7 +115,7 @@
     <string name="common_error">錯誤</string>
     <string name="common_error_out_memory">記憶體不足</string>
     <string name="common_error_unknown">未知的錯誤</string>
-    <string name="common_loading">正在載入……</string>
+    <string name="common_loading">正在載入…</string>
     <string name="common_next">下一步</string>
     <string name="common_no">否</string>
     <string name="common_ok">好</string>
@@ -216,7 +216,7 @@
     <string name="document_scan_export_dialog_pdf">PDF 檔案</string>
     <string name="document_scan_export_dialog_title">選擇匯出類型</string>
     <string name="document_scan_pdf_generation_failed">PDF 產生失敗</string>
-    <string name="document_scan_pdf_generation_in_progress">正在產生 PDF……</string>
+    <string name="document_scan_pdf_generation_in_progress">正在產生 PDF…</string>
     <string name="done">完成</string>
     <string name="dontClear">不要清空</string>
     <string name="download_cannot_create_file">無法建立本機檔案</string>
@@ -227,7 +227,7 @@
     <string name="downloader_download_failed_ticker">下載失敗</string>
     <string name="downloader_download_file_not_found">這個檔案已經不存在於伺服器中</string>
     <string name="downloader_download_in_progress_content">%1$d%% 下載中 %2$s</string>
-    <string name="downloader_download_in_progress_ticker">正在下載……</string>
+    <string name="downloader_download_in_progress_ticker">正在下載…</string>
     <string name="downloader_download_succeeded_content">%1$s 已下載</string>
     <string name="downloader_download_succeeded_ticker">已下載</string>
     <string name="downloader_not_downloaded_yet">尚未下載</string>
@@ -262,16 +262,16 @@
     <string name="email_pick_failed">挑選電子郵件地址失敗。</string>
     <string name="encrypted">設為已加密</string>
     <string name="end_to_end_encryption_confirm_button">設定加密</string>
-    <string name="end_to_end_encryption_decrypting">正在解密……</string>
+    <string name="end_to_end_encryption_decrypting">正在解密…</string>
     <string name="end_to_end_encryption_dialog_close">關閉</string>
     <string name="end_to_end_encryption_enter_password">請輸入密碼來解密私鑰。</string>
     <string name="end_to_end_encryption_folder_not_empty">資料夾不為空。</string>
-    <string name="end_to_end_encryption_generating_keys">正在產生新的金鑰……</string>
+    <string name="end_to_end_encryption_generating_keys">正在產生新的金鑰…</string>
     <string name="end_to_end_encryption_keywords_description">透過組合 12 個字來產生安全的密碼，讓您可以安全的瀏覽與加密檔案。請確保這組密碼只有您知道，並寫記在紙上妥善保管。</string>
     <string name="end_to_end_encryption_not_enabled">伺服器上的端到端加密已停用。</string>
     <string name="end_to_end_encryption_passphrase_title">為您 12 個字的加密密碼加上註解</string>
-    <string name="end_to_end_encryption_password">密碼……</string>
-    <string name="end_to_end_encryption_retrieving_keys">正在擷取金鑰……</string>
+    <string name="end_to_end_encryption_password">密碼…</string>
+    <string name="end_to_end_encryption_retrieving_keys">正在擷取金鑰…</string>
     <string name="end_to_end_encryption_storing_keys">儲存金鑰</string>
     <string name="end_to_end_encryption_title">設定加密</string>
     <string name="end_to_end_encryption_unsuccessful">無法儲存金鑰，請重試。</string>
@@ -345,15 +345,15 @@
     <string name="file_list_empty_unified_search_no_results">找不到與您的搜尋相符的結果</string>
     <string name="file_list_folder">資料夾</string>
     <string name="file_list_live">即時</string>
-    <string name="file_list_loading">正在載入……</string>
+    <string name="file_list_loading">正在載入…</string>
     <string name="file_list_no_app_for_file_type">未設定處理此檔案類型適用的應用程式。</string>
     <string name="file_list_seconds_ago">幾秒前</string>
     <string name="file_management_permission">需要權限</string>
     <string name="file_management_permission_optional">儲存空間權限</string>
     <string name="file_management_permission_optional_text">%1$s 在有存取儲存空間的權限時運作得最好。您可以選擇完整存取所有檔案，或是對照片及影片的唯讀存取。</string>
     <string name="file_management_permission_text">%1$s 需要檔案管理權限以上傳檔案。您可以選擇完整存取所有檔案，或是對照片及影片的唯讀存取。</string>
-    <string name="file_migration_checking_destination">正在檢查目的地……</string>
-    <string name="file_migration_cleaning">正在清理……</string>
+    <string name="file_migration_checking_destination">正在檢查目的地…</string>
+    <string name="file_migration_cleaning">正在清理…</string>
     <string name="file_migration_dialog_title">正在更新資料儲存資料夾</string>
     <string name="file_migration_directory_already_exists">資料儲存資料夾已存在。請選擇一個：</string>
     <string name="file_migration_failed_dir_already_exists">Nextcloud 資料夾已經存在</string>
@@ -362,17 +362,17 @@
     <string name="file_migration_failed_not_writable">無法寫入目標檔案</string>
     <string name="file_migration_failed_while_coping">遷移失敗</string>
     <string name="file_migration_failed_while_updating_index">更新索引失敗</string>
-    <string name="file_migration_migrating">正在移動資料……</string>
+    <string name="file_migration_migrating">正在移動資料…</string>
     <string name="file_migration_ok_finished">已完成</string>
     <string name="file_migration_override_data_folder">取代</string>
-    <string name="file_migration_preparing">正在準備遷移……</string>
-    <string name="file_migration_restoring_accounts_configuration">帳號設定復原中……</string>
-    <string name="file_migration_saving_accounts_configuration">正在儲存帳號設定……</string>
+    <string name="file_migration_preparing">正在準備遷移…</string>
+    <string name="file_migration_restoring_accounts_configuration">帳號設定復原中…</string>
+    <string name="file_migration_saving_accounts_configuration">正在儲存帳號設定…</string>
     <string name="file_migration_source_not_readable">您仍然想要變更資料儲存資料夾為 %1$s 嗎？\n\n注意：所有資料都必須再次下載。</string>
     <string name="file_migration_source_not_readable_title">來源資料夾無法讀取！</string>
-    <string name="file_migration_updating_index">正在更新索引……</string>
+    <string name="file_migration_updating_index">正在更新索引…</string>
     <string name="file_migration_use_data_folder">使用</string>
-    <string name="file_migration_waiting_for_unfinished_sync">正在等待完全同步……</string>
+    <string name="file_migration_waiting_for_unfinished_sync">正在等待完全同步…</string>
     <string name="file_not_found">找不到檔案</string>
     <string name="file_not_synced">檔案無法同步，將顯示最新可用版本。</string>
     <string name="file_rename">重新命名</string>
@@ -405,8 +405,8 @@
     <string name="forbidden_permissions_delete">刪除此檔案</string>
     <string name="forbidden_permissions_move">移動此檔案</string>
     <string name="forbidden_permissions_rename">重新命名此檔案</string>
-    <string name="foreground_service_download">正在下載檔案……</string>
-    <string name="foreground_service_upload">正在上傳檔案……</string>
+    <string name="foreground_service_download">正在下載檔案…</string>
+    <string name="foreground_service_upload">正在上傳檔案…</string>
     <string name="foreign_files_fail">有些檔案無法被移動</string>
     <string name="foreign_files_local_text">本機：%1$s</string>
     <string name="foreign_files_move">移動全部</string>
@@ -471,7 +471,7 @@
     <string name="logs_menu_search">搜尋紀錄檔</string>
     <string name="logs_menu_send">透過電子郵件傳送紀錄檔</string>
     <string name="logs_status_filtered">紀錄檔：%1$d kB，符合查詢 %2$d/%3$d，耗時 %4$d 毫秒</string>
-    <string name="logs_status_loading">正在載入……</string>
+    <string name="logs_status_loading">正在載入…</string>
     <string name="logs_status_not_filtered">紀錄檔：%1$d kB（不篩選）</string>
     <string name="logs_title">紀錄檔</string>
     <string name="maintenance_mode">伺服器正處於維護模式</string>
@@ -509,7 +509,7 @@
     <string name="network_error_socket_exception">連線至伺服器時發生錯誤</string>
     <string name="network_error_socket_timeout_exception">等待伺服器時發生錯誤。無法完成動作。</string>
     <string name="network_host_not_available">無法完成動作。伺服器無法使用。</string>
-    <string name="new_comment">新留言……</string>
+    <string name="new_comment">新留言…</string>
     <string name="new_media_folder_detected">偵測到新的媒體資料夾 %1$s。</string>
     <string name="new_media_folder_photos">相片</string>
     <string name="new_media_folder_videos">影片</string>
@@ -605,8 +605,8 @@
     <string name="prefs_gpl_v2">GNU 通用公眾授權條款第 2 版</string>
     <string name="prefs_help">說明</string>
     <string name="prefs_imprint">法律聲明</string>
-    <string name="prefs_instant_behaviour_dialogTitle">原始的檔案將會……</string>
-    <string name="prefs_instant_behaviour_title">原始的檔案將會……</string>
+    <string name="prefs_instant_behaviour_dialogTitle">原始的檔案將會…</string>
+    <string name="prefs_instant_behaviour_title">原始的檔案將會…</string>
     <string name="prefs_instant_upload_path_use_date_subfolders_summary">根據日期儲存在子資料夾中</string>
     <string name="prefs_instant_upload_path_use_subfolders_title">使用子資料夾</string>
     <string name="prefs_instant_upload_subfolder_rule_title">子資料夾選項</string>
@@ -673,7 +673,7 @@
     <string name="restore_backup">復原備份</string>
     <string name="restore_button_description">復原被刪除的檔案</string>
     <string name="restore_selected">復原已選取的部份</string>
-    <string name="retrieving_file">正在擷取檔案……</string>
+    <string name="retrieving_file">正在擷取檔案…</string>
     <string name="richdocuments_failed_to_load_document">載入文件失敗！</string>
     <string name="scanQR_description">透過 QR Code 登入</string>
     <string name="scan_page">掃描頁面</string>
@@ -681,7 +681,7 @@
     <string name="screenshot_01_gridView_subline">可自建且具生產力</string>
     <string name="screenshot_02_listView_heading">瀏覽與分享</string>
     <string name="screenshot_02_listView_subline">全在您一指之間</string>
-    <string name="screenshot_03_drawer_heading">活動、分享……</string>
+    <string name="screenshot_03_drawer_heading">活動、分享…</string>
     <string name="screenshot_03_drawer_subline">可快速存取所有資源</string>
     <string name="screenshot_04_accounts_heading">您所有的帳號</string>
     <string name="screenshot_04_accounts_subline">都在一處</string>
@@ -733,7 +733,7 @@
     <string name="share_permissions">分享權限</string>
     <string name="share_remote_clarification">%1$s（遠端）</string>
     <string name="share_room_clarification">%1$s（交談）</string>
-    <string name="share_search">名稱、Federated Cloud ID 或電子郵件地址……</string>
+    <string name="share_search">名稱、Federated Cloud ID 或電子郵件地址…</string>
     <string name="share_send_new_email">傳送新電子郵件</string>
     <string name="share_send_note">給收件人的備註</string>
     <string name="share_settings">設定</string>
@@ -741,7 +741,7 @@
     <string name="share_via_link_section_title">分享連結</string>
     <string name="share_via_link_send_link_label">傳送連結</string>
     <string name="share_via_link_unset_password">解除設定</string>
-    <string name="share_with_title">分享給……</string>
+    <string name="share_with_title">分享給…</string>
     <string name="shared_avatar_desc">分享者的大頭照</string>
     <string name="shared_icon_share">分享</string>
     <string name="shared_icon_shared">已分享</string>
@@ -818,7 +818,7 @@
     <string name="store_full_dev_desc">可自架且始終讓您掌控一切的生產力平台。\n這是官方的開發版本，每天都會提供未經測試的任何新功能的範例，可能造成不穩定或資料遺失。此應用程式適合願意測試且回報遇到的問題的使用者。不要將其用於您的生產力工作！\n\nF-Droid 同時提供了官方的開發版本與一般版本，可同時安裝。</string>
     <string name="store_short_desc">讓您能完全掌控、可自建且具生產力的平台</string>
     <string name="store_short_dev_desc">讓您能完全掌控、可自建且具生產力的平台（開發者預覽版）</string>
-    <string name="stream">串流……</string>
+    <string name="stream">串流…</string>
     <string name="stream_not_possible_headline">無法進行內部串流</string>
     <string name="stream_not_possible_message">請改為下載媒體或使用外部應用程式。</string>
     <string name="strict_mode">嚴格模式：不允許 HTTP 連線！</string>
@@ -891,7 +891,7 @@
     <string name="update_link_forbidden_permissions">更新此分享</string>
     <string name="updating_share_failed">更新分享失敗</string>
     <string name="upload_cannot_create_file">無法建立本機檔案</string>
-    <string name="upload_chooser_title">上傳自……</string>
+    <string name="upload_chooser_title">上傳自…</string>
     <string name="upload_content_from_other_apps">從其他應用程式上傳</string>
     <string name="upload_direct_camera_upload">從相機上傳</string>
     <string name="upload_file_dialog_filename">檔案名稱</string>
@@ -937,7 +937,7 @@
     <string name="uploader_upload_files_behaviour_upload_and_delete_from_source">刪除來源資料夾中的檔案</string>
     <string name="uploader_upload_forbidden_permissions">上傳至此資料夾</string>
     <string name="uploader_upload_in_progress_content">%1$d%% 上傳 %2$s 中</string>
-    <string name="uploader_upload_in_progress_ticker">正在上傳……</string>
+    <string name="uploader_upload_in_progress_ticker">正在上傳…</string>
     <string name="uploader_upload_succeeded_content_single">%1$s 已上傳</string>
     <string name="uploader_wrn_no_account_quit_btn_text">離開</string>
     <string name="uploader_wrn_no_account_setup_btn_text">設定</string>
@@ -957,7 +957,7 @@
     <string name="uploads_view_upload_status_failed_localfile_error">找不到本機檔案</string>
     <string name="uploads_view_upload_status_failed_permission_error">權限錯誤</string>
     <string name="uploads_view_upload_status_failed_ssl_certificate_not_trusted">不信任的伺服器憑證</string>
-    <string name="uploads_view_upload_status_fetching_server_version">正在擷取伺服器版本……</string>
+    <string name="uploads_view_upload_status_fetching_server_version">正在擷取伺服器版本…</string>
     <string name="uploads_view_upload_status_service_interrupted">應用程式已被終止</string>
     <string name="uploads_view_upload_status_succeeded">已完成</string>
     <string name="uploads_view_upload_status_unknown_fail">未知的錯誤</string>
@@ -977,7 +977,7 @@
     <string name="username">使用者名稱</string>
     <string name="version_dev_download">下載</string>
     <string name="video_overlay_icon">影片覆蓋層圖示</string>
-    <string name="wait_a_moment">稍候……</string>
+    <string name="wait_a_moment">稍候…</string>
     <string name="wait_checking_credentials">正在檢查儲存的憑證</string>
     <string name="wait_for_tmp_copy_from_private_storage">從私有儲存空間複製檔案中</string>
     <string name="webview_version_check_alert_dialog_message">請更新 Android System WebView 應用程式以進行登入</string>
@@ -1029,7 +1029,7 @@
         <item quantity="other">%1$d 個檔案</item>
     </plurals>
     <plurals name="synced_folders_show_hidden_folders">
-        <item quantity="other">顯示%1$d隱藏的資料夾</item>
+        <item quantity="other">顯示 %1$d 隱藏的資料夾</item>
     </plurals>
     <plurals name="items_selected_count">
         <item quantity="other">已選取 %d 個</item>
