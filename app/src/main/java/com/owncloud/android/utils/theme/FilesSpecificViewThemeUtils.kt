@@ -51,7 +51,7 @@ class FilesSpecificViewThemeUtils @Inject constructor(
         withScheme(category.context) {
             val text: Spannable = SpannableString(category.title)
             text.setSpan(
-                ForegroundColorSpan(dynamicColor.surface().getArgb(it)),
+                ForegroundColorSpan(dynamicColor.primary().getArgb(it)),
                 0,
                 text.length,
                 Spannable.SPAN_INCLUSIVE_INCLUSIVE
