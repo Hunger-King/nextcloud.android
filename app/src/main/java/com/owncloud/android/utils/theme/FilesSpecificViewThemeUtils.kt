@@ -190,7 +190,7 @@ class FilesSpecificViewThemeUtils @Inject constructor(
                     ),
                     intArrayOf(
                         dynamicColor.primary().getArgb(scheme),
-                        dynamicColor.outline().getArgb(scheme),
+                        dynamicColor.outline().getArgb(scheme)
                     )
                 )
             )
