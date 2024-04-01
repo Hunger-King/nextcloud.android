@@ -2,8 +2,8 @@
 
 [![Build Status](https://drone.nextcloud.com/api/badges/nextcloud/android/status.svg)](https://drone.nextcloud.com/nextcloud/android) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/80401cb343854343b4d94acbfb72d3ec)](https://www.codacy.com/app/Nextcloud/android?utm_source=github.com\&utm_medium=referral\&utm_content=nextcloud/android\&utm_campaign=Badge_Grade) [![Releases](https://img.shields.io/github/release/nextcloud/android.svg)](https://github.com/nextcloud/android/releases/latest)
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" 
-alt="Download from Google Play" 
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
+alt="Download from Google Play"
 height="80">](https://play.google.com/store/apps/details?id=com.nextcloud.client)
 [<img src="https://f-droid.org/badge/get-it-on.png"
 alt="Get it on F-Droid"
@@ -15,14 +15,14 @@ height="80">](https://f-droid.org/packages/com.nextcloud.client/)
 
 ## How to contribute :rocket:
 
-If you want to [contribute](https://nextcloud.com/contribute/) to the Nextcloud Android client app, there are many ways to help whether or not you are a coder: 
+If you want to [contribute](https://nextcloud.com/contribute/) to the Nextcloud Android client app, there are many ways to help whether or not you are a coder:
 
 *   helping out other users on our forum at https://help.nextcloud.com
 *   providing translations of the app on [Transifex](https://app.transifex.com/nextcloud/nextcloud/android/)
 *   reporting problems / suggesting enhancements by [opening new issues](https://github.com/nextcloud/android/issues/new/choose)
 *   implementing proposed bug fixes and enhancement ideas by submitting PRs (associated with a corresponding issue preferably)
 *   reviewing [pull requests](https://github.com/nextcloud/android/pulls) and providing feedback on code, implementation, and functionality
-*   installing and testing [pull request builds](https://github.com/nextcloud/android/pulls), [daily/dev builds](https://github.com/nextcloud/android#development-version-hammer), or [RCs/release candidate builds](https://github.com/nextcloud/android/releases) 
+*   installing and testing [pull request builds](https://github.com/nextcloud/android/pulls), [daily/dev builds](https://github.com/nextcloud/android#development-version-hammer), or [RCs/release candidate builds](https://github.com/nextcloud/android/releases)
 *   enhancing Admin, User, or Developer [documentation](https://github.com/nextcloud/documentation/)
 *   hitting hard on the latest stable release by testing fundamental features and evaluating the user experience
 *   proactively getting familiar with [how to gather debug logs](https://github.com/nextcloud/android#getting-debug-info-via-logcat-mag) from your devices (so that you are prepared to provide a detailed report if you encounter a problem with the app in the future)
@@ -90,3 +90,6 @@ If you need assistance or want to ask a question about the Android app, you are 
 ## Remarks :scroll:
 
 Google Play and the Google Play logo are trademarks of Google Inc.
+
+# 軟體中文化
+本專案為數位部開放原始碼軟體中文化專案項目之一，其中文化與專案應用可參考 Wiki。
